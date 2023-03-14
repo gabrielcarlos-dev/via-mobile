@@ -8,4 +8,6 @@
 
 <img src="https://github.com/gabrielcarlos-dev/via-mobile/blob/master/assets/Bloco%20de%20Texto%20com%20Mockup%20de%20Notebook%20Alinhado%20%C3%A0%20Direita.png?raw=true">
 <br>
-##  💻 Descrição
+  <h3>💻 Descrição </h3>
+
+  Esse projeto que fizemos DevClub ensinaram várias coisas como fazer a responsividade para celular  
