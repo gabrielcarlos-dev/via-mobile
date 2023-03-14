@@ -13,3 +13,5 @@
 Este projeto que fizemos no DevClub ensinaram várias coisas como fazer a responsividade para celular 
 
 <h5> 🔨TECNOLOGIAS</h5>
+
+-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
