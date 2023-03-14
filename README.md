@@ -10,4 +10,4 @@
 <br>
   <h3>💻 Descrição </h3>
 
-  Esse projeto que fizemos DevClub ensinaram várias coisas como fazer a responsividade para celular  
+Este projeto que fizemos no DevClub ensinaram várias coisas como fazer a responsividade para celular  
